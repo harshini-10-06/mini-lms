@@ -1,1 +1,1 @@
-lms_dashboard.png
+index.html
