@@ -1,1 +1,1 @@
-# mini-lms
+lms_dashboard.png
